@@ -1,7 +1,9 @@
 import numpy as np
 
 def acc_effect(G,M,x,y):
-
+    '''
+    test docstring to produce new commit
+    '''
     ax=-G*M/(abs(x**2+y**2)**[3/2])*x;
     ay=-G*M/(abs(x**2+y**2)**[3/2])*y;
 
