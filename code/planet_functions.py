@@ -2,7 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt 
 
 def eccentricity(x,y,L,l):
-
+    '''
+    calculates eccentricity
+    '''
   rj=(x**2+y**2)**.5
   e=np.zeros(int(L/l), dtype=float);
   for i in range(0,int(L/l)):
