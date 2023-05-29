@@ -1,6 +1,8 @@
 # Planning document
 
 ## Code Structure
+
+```{uml}
 @startuml
 start
 :Hello world;
@@ -8,3 +10,4 @@ start
 several **lines**;
 stop
 @enduml
+```
