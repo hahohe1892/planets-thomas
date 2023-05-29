@@ -1,6 +1,5 @@
 # Planning document
-## About
-Made as part of the course *Planning Formalisms*
+
 ## Code Structure
 ```plantuml
 
